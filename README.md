@@ -4,8 +4,8 @@ This repository contains code for estimating satellite precipitation using vario
 
 ## Models
 
-- `2DCNN/`: Code for 2D Convolutional Neural Network model.
-- `3DCNN/`: Code for 3D Convolutional Neural Network model.
-- `ConvLSTM/`: Code for Convolutional Long Short-Term Memory model.
-- `Siamese/`: Code for Siamese model.
-- `Siamese-Diff/`: Code for Siamese-Diff model.
+- `2DCNN.py`: Code for 2D Convolutional Neural Network model.
+- `3DCNN.py`: Code for 3D Convolutional Neural Network model.
+- `ConvLSTM.py`: Code for Convolutional Long Short-Term Memory model.
+- `Siamese.py`: Code for Siamese model.
+- `Siamese-Diff.py`: Code for Siamese-Diff model.
